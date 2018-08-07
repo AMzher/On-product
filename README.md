@@ -1,13 +1,21 @@
 # On-product
-On theory:
+On Theory:
+- Waterfall
 - Agile
+    - [intro]()
+    - [User stories](https://www.youtube.com/watch?v=6q5-cVeNjCE&t=11s)
+    - [Agile Estimating](https://www.youtube.com/watch?v=37zfyncCpkA)
+    - [Advanced Topics in Agile Planning](https://www.youtube.com/watch?v=D2r2KryYAaY)
 - Scrum
 - Lean
 - Kanban
-- Design thinking 
+- Design thinking:
+    - [intro]()
+    - [Design Thinking = Method, Not Magic](https://www.youtube.com/watch?v=vSuK2C89yjA)
 - [Product Design Sprint](https://github.com/thoughtbot/design-sprint)
+- [The Art of Building a (product) Roadmap](https://www.youtube.com/watch?v=rLXcdzBQslM)
 
-On user:
+On User:
 - UX
 - Personas
 - Data awareness:
@@ -32,8 +40,8 @@ On user:
     - [Why Data Science and UX Research Teams are Better Together](https://vimeo.com/226958716)
 
 
-On mangament 
-- self mangament
+On Management:
+- self management 
 - people/teams skills:
   - Communication
   - Motivation.
@@ -41,6 +49,6 @@ On mangament
   - Dealing with stakeholders.
 
 
-On marketing and growth 
+On Marketing and Growth 
 - growth hacking
 - digital marketing
