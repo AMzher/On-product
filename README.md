@@ -1,4 +1,5 @@
 # On-product
+This 
 On Theory:
 - Waterfall
 - Agile
@@ -17,7 +18,7 @@ On Theory:
 
 On User:
 - UX
-- Personas
+- [Persona](https://optinmonster.com/how-to-create-a-concrete-buyer-persona-with-templates-examples/)
 - Data awareness:
     - Introduction:  
       - [Building a Data Culture at Your Organization](https://www.slideshare.net/LucianoPesci1/dawn-of-the-data-age-building-a-data-culture-at-your-organization)
@@ -51,5 +52,7 @@ On Management:
 
 
 On Marketing and Growth 
-- growth hacking
-- digital marketing
+- Growth Hacking
+    - [Freemium](https://blog.hubspot.com/service/freemium)
+    - [Growth Hacking eCommerce](https://www.coredna.com/blogs/ecommerce-growth-hacks)
+- Digital Marketing
