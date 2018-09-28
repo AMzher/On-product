@@ -28,9 +28,10 @@ On User:
     4. [User Churn (UC)](https://clevertap.com/blog/churn-rate-mobile-app/)
     5. [Feature Usage (FU)]
     6. [Daily Active Users (DAU)]
-    7. [Customer Lifetime Value (CLV)](https://en.wikipedia.org/wiki/Customer_lifetime_value)
-    8. [Customer satisfaction metrics (CSAT, CES and NPS)](https://www.checkmarket.com/blog/csat-ces-nps-compared/)
-    9. [Net Promoter Score (NPS)](https://www.forbes.com/sites/shephyken/2016/12/03/how-effective-is-net-promoter-score-nps/#6d8a207823e4)
+    7. [Average Revenue Per Account (ARPA)](https://saasmetrics.co/average-revenue-per-account/)
+    8. [Customer Lifetime Value (CLV)](https://en.wikipedia.org/wiki/Customer_lifetime_value)
+    9. [Customer satisfaction metrics (CSAT, CES and NPS)](https://www.checkmarket.com/blog/csat-ces-nps-compared/)
+    10. [Net Promoter Score (NPS)](https://www.forbes.com/sites/shephyken/2016/12/03/how-effective-is-net-promoter-score-nps/#6d8a207823e4)
     
     
   - User journey:
