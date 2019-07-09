@@ -26,7 +26,8 @@ On User:
     
     - [Book: The Social Design of Technical Systems: Building technologies for communities](https://www.interaction-design.org/literature/book/the-social-design-of-technical-systems-building-technologies-for-communities-2nd-edition)
 - [Persona](https://optinmonster.com/how-to-create-a-concrete-buyer-persona-with-templates-examples/)
-- Data awareness:
+
+On Data:
     - Introduction:  
       - [Building a Data Culture at Your Organization](https://www.slideshare.net/LucianoPesci1/dawn-of-the-data-age-building-a-data-culture-at-your-organization)
   - KPIs:
