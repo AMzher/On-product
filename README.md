@@ -1,6 +1,6 @@
 # On-product
-This 
-On Theory:
+ 
+On methodology:
 - Waterfall
 - Agile
     - [intro]()
@@ -8,7 +8,7 @@ On Theory:
     - [Agile Estimating](https://www.youtube.com/watch?v=37zfyncCpkA)
     - [Advanced Topics in Agile Planning](https://www.youtube.com/watch?v=D2r2KryYAaY)
 - Scrum
-- Lean
+- [Lean](http://theleanstartup.com/principles)
 - Kanban
 - Design thinking:
     - [intro]()
@@ -43,19 +43,29 @@ On User:
     
     
   - User journey:
+    - [A Beginner’s Guide To User Journey Mapping](https://uxplanet.org/a-beginners-guide-to-user-journey-mapping-bd914f4c517c)
     - [3 tools to user journey tracking -with tons of extra features](http://marketlytics.com/blog/mixpanel-vs-kissmetrics-vs-amplitude)
     - [Hotjar is good complementary](https://www.hotjar.com/)
   - Practices:
     - [Why Data Science and UX Research Teams are Better Together](https://vimeo.com/226958716)
 
 
-On Management:
-- self management 
-- people/teams skills:
+
+On Management and Business:
+- [Quick MBA] (http://www.quickmba.com/)
+- [The growth–share matrix](https://www.bcg.com/documents/file13904.pdf)
+- [Porter's five forces analysis](https://en.wikipedia.org/wiki/Porter%27s_five_forces_analysis)
+- [The Balanced Scorecard](https://hbr.org/video/3633937148001/the-explainer-the-balanced-scorecard)
+- [OKR & KPI](https://www.perdoo.com/blog/okr-vs-kpi/)
+- [The GE–McKinsey nine-box matrix](https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/enduring-ideas-the-ge-and-mckinsey-nine-box-matrix)
+- [The 7-S Framework](https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/enduring-ideas-the-7-s-framework)
+- [Core Competencies](https://www.bain.com/insights/management-tools-2011-core-competencies)
+- Self management 
+- People/teams skills:
   - Communication
   - Motivation.
   - Conflicts resolution.
-  - Dealing with stakeholders.
+  - Stakeholder analysis (https://www.productplan.com/glossary/stakeholder-analysis/).
 
 
 On Marketing and Growth 
