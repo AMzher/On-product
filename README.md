@@ -65,7 +65,7 @@ On Management and Business:
   - Communication
   - Motivation.
   - Conflicts resolution.
-  - Stakeholder analysis (https://www.productplan.com/glossary/stakeholder-analysis/).
+  - [Stakeholder analysis](https://www.productplan.com/glossary/stakeholder-analysis/).
 
 
 On Marketing and Growth 
