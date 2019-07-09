@@ -52,7 +52,7 @@ On User:
 
 
 On Management and Business:
-- [Quick MBA] (http://www.quickmba.com/)
+- [Quick MBA](http://www.quickmba.com/)
 - [The growth–share matrix](https://www.bcg.com/documents/file13904.pdf)
 - [Porter's five forces analysis](https://en.wikipedia.org/wiki/Porter%27s_five_forces_analysis)
 - [The Balanced Scorecard](https://hbr.org/video/3633937148001/the-explainer-the-balanced-scorecard)
