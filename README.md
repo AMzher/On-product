@@ -15,9 +15,16 @@ On Theory:
     - [Design Thinking = Method, Not Magic](https://www.youtube.com/watch?v=vSuK2C89yjA)
 - [Product Design Sprint](https://github.com/thoughtbot/design-sprint)
 - [The Art of Building a (product) Roadmap](https://www.youtube.com/watch?v=rLXcdzBQslM)
+- Prototyping
+    - [moqups](https://moqups.com/)
 
 On User:
 - UX
+    - [Outlines](https://lawsofux.com/)
+    - [Ultimate Start guide for beginner UX/UI designers](https://uxdesign.cc/ultimate-start-guide-for-beginner-ux-ui-designer-b848be089589)
+    - [On Animation](https://uxplanet.org/animation-that-matters-adding-value-to-your-interface-65496fe4c182)
+    
+    - [Book: The Social Design of Technical Systems: Building technologies for communities](https://www.interaction-design.org/literature/book/the-social-design-of-technical-systems-building-technologies-for-communities-2nd-edition)
 - [Persona](https://optinmonster.com/how-to-create-a-concrete-buyer-persona-with-templates-examples/)
 - Data awareness:
     - Introduction:  
