@@ -67,7 +67,7 @@ On Management and Business:
   - Motivation.
   - Conflicts resolution.
   - [Stakeholder analysis](https://www.productplan.com/glossary/stakeholder-analysis/).
-
+- [The B2B Elements of Value](https://hbr.org/2018/03/the-b2b-elements-of-value)
 
 On Marketing and Growth 
 - Growth Hacking
