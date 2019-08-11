@@ -45,6 +45,7 @@ On Data:
     
   - User journey:
     - [A Beginner’s Guide To User Journey Mapping](https://uxplanet.org/a-beginners-guide-to-user-journey-mapping-bd914f4c517c)
+    - [AIDA Model](https://www.feedough.com/aida-model-explanation-examples-variants/)
     - [3 tools to user journey tracking -with tons of extra features](http://marketlytics.com/blog/mixpanel-vs-kissmetrics-vs-amplitude)
     - [Hotjar is good complementary](https://www.hotjar.com/)
   - Practices:
