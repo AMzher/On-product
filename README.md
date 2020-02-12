@@ -15,10 +15,14 @@ On methodology:
     - [Design Thinking = Method, Not Magic](https://www.youtube.com/watch?v=vSuK2C89yjA)
 - [Product Design Sprint](https://github.com/thoughtbot/design-sprint)
 - [The Art of Building a (product) Roadmap](https://www.youtube.com/watch?v=rLXcdzBQslM)
-- Prototyping
+
+On Building
+-Prototyping
     - [moqups](https://moqups.com/)
 
 On User:
+- Research
+    -[https://medium.com/@t0ri/taking-a-product-to-the-next-level-with-research-and-planning-270dd53fcfab](Taking a Product to the Next Level with Research and Planning)
 - UX
     - [Outlines](https://lawsofux.com/)
     - [Ultimate Start guide for beginner UX/UI designers](https://uxdesign.cc/ultimate-start-guide-for-beginner-ux-ui-designer-b848be089589)
@@ -61,6 +65,7 @@ On Management and Business:
 - [OKR & KPI](https://www.perdoo.com/blog/okr-vs-kpi/)
 - [The GE–McKinsey nine-box matrix](https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/enduring-ideas-the-ge-and-mckinsey-nine-box-matrix)
 - [The 7-S Framework](https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/enduring-ideas-the-7-s-framework)
+-[PEST Analysis](https://www.groupmap.com/map-templates/pest-analysis/#1495520503980-87e3bbbf-bbb2)
 - [Core Competencies](https://www.bain.com/insights/management-tools-2011-core-competencies)
 - Self management 
 - People/teams skills:
@@ -75,3 +80,7 @@ On Marketing and Growth
     - [Freemium](https://blog.hubspot.com/service/freemium)
     - [Growth Hacking eCommerce](https://www.coredna.com/blogs/ecommerce-growth-hacks)
 - Digital Marketing
+
+On Stakeholders (VCs, C-suit, Suppliers, User)
+- Pitching
+    - [The Perfect Pitch Deck](https://medium.com/@iskender/the-perfect-pitch-deck-designed-by-a-vc-902842ce7f38)
