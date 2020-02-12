@@ -16,13 +16,13 @@ On methodology:
 - [Product Design Sprint](https://github.com/thoughtbot/design-sprint)
 - [The Art of Building a (product) Roadmap](https://www.youtube.com/watch?v=rLXcdzBQslM)
 
-On Building
--Prototyping
+On Building:
+- Prototyping
     - [moqups](https://moqups.com/)
 
 On User:
 - Research
-    -[https://medium.com/@t0ri/taking-a-product-to-the-next-level-with-research-and-planning-270dd53fcfab](Taking a Product to the Next Level with Research and Planning)
+    -[Taking a Product to the Next Level with Research and Planning](https://medium.com/@t0ri/taking-a-product-to-the-next-level-with-research-and-planning-270dd53fcfab)
 - UX
     - [Outlines](https://lawsofux.com/)
     - [Ultimate Start guide for beginner UX/UI designers](https://uxdesign.cc/ultimate-start-guide-for-beginner-ux-ui-designer-b848be089589)
